@@ -1,0 +1,29 @@
+body {
+	background-color: #ccd5ae;
+	color: #283618;
+}
+h1 {
+	text-align: center;
+	background-color: #a3b18a;
+	margin-bottom: 30px;
+}
+.sign {
+	text-align: center;
+	background-color: #a3b18a;
+	margin-top: 20px;
+  font-family: "Kanit", serif;
+  font-weight: 600;
+  font-style: normal;
+  padding: 10px;
+
+
+}
+.btn {
+	background-color: #606c38;
+	color: whitesmoke;
+	margin-left: 400px;
+	margin-top: 15px;
+}
+
+
+
